@@ -7,11 +7,11 @@
   "author": "Hans Willem Gijzel",
   "authorEmail": "",
   "authorUrl": "",
-  "pluginUrl": "https://github.com/hanswillem/TinyOSC",
-  "manualUrl": "https://github.com/hanswillem/TinyOSC#readme",
-  "sourceUrl": "https://github.com/hanswillem/TinyOSC",
+  "pluginUrl": "https://github.com/hanswillem/Tiny-OSC-VCV-Rack",
+  "manualUrl": "https://github.com/hanswillem/Tiny-OSC-VCV-Rack#readme",
+  "sourceUrl": "https://github.com/hanswillem/Tiny-OSC-VCV-Rack",
   "donateUrl": "",
-  "changelogUrl": "https://github.com/hanswillem/TinyOSC/releases",
+  "changelogUrl": "https://github.com/hanswillem/Tiny-OSC-VCV-Rack/releases",
   "modules": [
     {
       "slug": "TinyOSC",
