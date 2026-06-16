@@ -4,6 +4,8 @@ TinyOSC is a minimal VCV Rack 2 plugin for receiving one OSC value from TouchDes
 
 The module is intentionally small: one UDP OSC input path, one address filter, scale and offset controls, and one CV output. It does not send OSC from Rack.
 
+![TinyOSC panel design](panel_design.png)
+
 ## Module
 
 - Direction: TouchDesigner to VCV Rack only.
