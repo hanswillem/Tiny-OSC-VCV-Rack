@@ -1,4 +1,4 @@
-# Tiny OSC VCV Rack
+# Tiny OSC for VCV Rack
 
 TinyOSC is a minimal VCV Rack 2 plugin for receiving one OSC value from TouchDesigner and exposing it as CV.
 
