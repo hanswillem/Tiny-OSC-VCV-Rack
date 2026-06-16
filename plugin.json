@@ -1,0 +1,26 @@
+{
+  "slug": "TinyOSC",
+  "name": "TinyOSC",
+  "version": "2.0.0",
+  "license": "MIT",
+  "brand": "TinyOSC",
+  "author": "Hans Willem Gijzel",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "TinyOSC",
+      "name": "TinyOSC",
+      "description": "Receive OSC from TouchDesigner and expose values as CV.",
+      "tags": [
+        "External",
+        "CV"
+      ]
+    }
+  ]
+}
