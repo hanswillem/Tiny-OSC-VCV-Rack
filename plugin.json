@@ -7,11 +7,11 @@
   "author": "Hans Willem Gijzel",
   "authorEmail": "",
   "authorUrl": "",
-  "pluginUrl": "",
-  "manualUrl": "",
-  "sourceUrl": "",
+  "pluginUrl": "https://github.com/hanswillem/TinyOSC",
+  "manualUrl": "https://github.com/hanswillem/TinyOSC#readme",
+  "sourceUrl": "https://github.com/hanswillem/TinyOSC",
   "donateUrl": "",
-  "changelogUrl": "",
+  "changelogUrl": "https://github.com/hanswillem/TinyOSC/releases",
   "modules": [
     {
       "slug": "TinyOSC",
